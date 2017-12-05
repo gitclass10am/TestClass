@@ -10,3 +10,8 @@ c=a+b+c;
 printf("\n The sum of three values are %d",c);
 getch();
 }
+
+
+
+//This is comment line in this program.  this is not a part of in this program
+//bye.
